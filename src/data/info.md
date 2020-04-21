@@ -1,6 +1,6 @@
 ---
 title: info page
-background_color: '#AEC4BE'
+background_color: '#0A3A2D'
 ---
 
 ## This blog was created using [TinaCMS](https://tinacms.org) & [NextJS](https://nextjs.org/)
